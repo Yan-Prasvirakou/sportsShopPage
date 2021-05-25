@@ -1,0 +1,32 @@
+.header-container {
+	position: fixed;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+	width: 100%;
+	top: 0;
+	height: 50px;
+	padding: var(--spacing-small);
+	padding-left: var(--spacing-large);
+	background: #e6e6e6;
+	margin-bottom: var(--spacing-small);
+	z-index: 20;
+}
+
+.header-counter {
+	padding-right: var(--spacing-small);
+	font-size: 24px;
+	font-weight: 500;
+	cursor: pointer;
+	display: flex;
+}
+
+.header__img {
+	height: 40px;
+	margin: 0 12px 0 0;
+}
+
+.header-counter span {
+	margin-top: 5px;
+}
+

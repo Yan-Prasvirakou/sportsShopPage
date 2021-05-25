@@ -1,0 +1,25 @@
+.to-top-btn__wrap {
+	position: fixed;
+	top: 80%;
+	left: 90%;
+	height: 20px;
+}
+
+@media screen and (max-width: 600px) {
+	.to-top-btn__wrap {
+		left: 80%;
+	}
+}
+
+.to-top-btn__btn {
+	background: url(/img/up-button.png) center no-repeat;
+	position: fixed;
+	top: 85%;
+	position: absolute;
+	border-radius: 50%;
+	outline: none;
+	border: none;
+	width: 60px;
+	height: 60px;
+	z-index: 18;
+}
