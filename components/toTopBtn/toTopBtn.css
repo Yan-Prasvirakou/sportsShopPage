@@ -12,7 +12,7 @@
 }
 
 .to-top-btn__btn {
-	background: url(/img/up-button.png) center no-repeat;
+	background: url(up-button.png) center no-repeat;
 	position: fixed;
 	top: 85%;
 	position: absolute;
