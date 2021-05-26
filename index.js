@@ -12,15 +12,17 @@ spinnerPage.render();
 let CATALOG = [];
 
 async function getCatalog() {
-	const res = await fetch('https://api.jsonbin.io/b/60193a965415b40ac221ad21', {
+	// "img": "../img/catalog/Гиря Уральская 24 кг.jpg" поменял на "img": "img/catalog/Гиря Уральская 24 кг.jpg"
+	const res = await fetch('https://api.jsonbin.io/b/60ad6499b2b1d74df21dbcac', {
 		headers: {
 			'Content-Type': 'application/json',
 			'secret-key': '$2b$10$iTDOViL0216vx78jKmSYneDaV3XYbFMLXnN1cXOkro4AZHluNAwKS'
 		}
 	})
-
+    
 	if (res.ok) {
 		let json = await res.json();
+		console.log(json);
 		CATALOG = json;
 		spinnerPage.handleClear();
 		render();

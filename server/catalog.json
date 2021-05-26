@@ -3,7 +3,7 @@
 	{
 		"id": "el1",
 		"name": "Гиря Уральская 24 кг",
-		"img": "../img/catalog/Гиря Уральская 24 кг.jpg",
+		"img": "img/catalog/Гиря Уральская 24 кг.jpg",
 		"price": 118,
 		"product": "Гири"
 	},
@@ -11,7 +11,7 @@
 	{
 		"id": "el2",
 		"name": "Гиря чугунная Euro-classic 16 кг",
-		"img": "../img/catalog/Гиря чугунная Euro-classic 16 кг.jpg",
+		"img": "img/catalog/Гиря чугунная Euro-classic 16 кг.jpg",
 		"price": 104,
 		"product": "Гири"
 	},
@@ -19,7 +19,7 @@
 	{
 		"id": "el3",
 		"name": "Гиря чугунная Euro-classic 24 кг",
-		"img": "../img/catalog/Гиря чугунная Euro-classic 24 кг.jpg",
+		"img": "img/catalog/Гиря чугунная Euro-classic 24 кг.jpg",
 		"price": 114.90,
 		"product": "Гири"
 	},
@@ -27,7 +27,7 @@
 	{
 		"id": "el4",
 		"name": "Спортивная гиря, черная 16 кг",
-		"img": "../img/catalog/Спортивная гиря, черная 16 кг.jpg",
+		"img": "img/catalog/Спортивная гиря, черная 16 кг.jpg",
 		"price": 99.8,
 		"product": "Гири"
 	},
@@ -35,7 +35,7 @@
 	{
 		"id": "el5",
 		"name": "Спортивная гиря, черная 24 кг",
-		"img": "../img/catalog/Спортивная гиря, черная 24 кг.jpg",
+		"img": "img/catalog/Спортивная гиря, черная 24 кг.jpg",
 		"price": 126,
 		"product": "Гири"
 	},
@@ -43,7 +43,7 @@
 	{
 		"id": "el6",
 		"name": "Гиря любительская, цветная 16 кг (жёлтая)",
-		"img": "../img/catalog/Гиря любительская, цветная 16 кг (жёлтая).jpg",
+		"img": "img/catalog/Гиря любительская, цветная 16 кг (жёлтая).jpg",
 		"price": 97.68,
 		"product": "Гири"
 	},
@@ -51,7 +51,7 @@
 	{
 		"id": "el7",
 		"name": "Гиря любительская, цветная 24 кг (зелёная)",
-		"img": "../img/catalog/Гиря любительская, цветная 24 кг (зелёная).jpg",
+		"img": "img/catalog/Гиря любительская, цветная 24 кг (зелёная).jpg",
 		"price": 126,
 		"product": "Гири"
 	},
@@ -59,7 +59,7 @@
 	{
 		"id": "el8",
 		"name": "Гиря чугунная обрезиненная SportElite 24 кг",
-		"img": "../img/catalog/Гиря чугунная обрезиненная SportElite 24 кг.jpg",
+		"img": "img/catalog/Гиря чугунная обрезиненная SportElite 24 кг.jpg",
 		"price": 189,
 		"product": "Гири"
 	},
@@ -67,7 +67,7 @@
 	{
 		"id": "el9",
 		"name": "Гиря разборная с гальваническим покрытием 20 кг",
-		"img": "../img/catalog/Гиря разборная с гальваническим покрытием 20 кг.jpg",
+		"img": "img/catalog/Гиря разборная с гальваническим покрытием 20 кг.jpg",
 		"price": 120.80,
 		"product": "Гири"
 	},
@@ -76,7 +76,7 @@
 	{
 		"id": "el10",
 		"name": "Гиря разборная с гальваническим покрытием 24 кг",
-		"img": "../img/catalog/Гиря разборная с гальваническим покрытием 24 кг.jpg",
+		"img": "img/catalog/Гиря разборная с гальваническим покрытием 24 кг.jpg",
 		"price": 141.80,
 		"product": "Гири"
 	},
@@ -84,7 +84,7 @@
 	{
 		"id": "el11",
 		"name": "Эспандер кистевой AbsoluteChampion (зеленый) усилие 25 кг",
-		"img": "../img/catalog/Эспандер кистевой AbsoluteChampion (зеленый) усилие 25 кг.jpg",
+		"img": "img/catalog/Эспандер кистевой AbsoluteChampion (зеленый) усилие 25 кг.jpg",
 		"price": 5.30,
 		"product": "Эспандеры"
 	},
@@ -92,7 +92,7 @@
 	{
 		"id": "el12",
 		"name": "Эспандер кистевой AbsoluteChampion (синий) усилие 30 кг",
-		"img": "../img/catalog/Эспандер кистевой AbsoluteChampion (синий) усилие 30 кг.jpg",
+		"img": "img/catalog/Эспандер кистевой AbsoluteChampion (синий) усилие 30 кг.jpg",
 		"price": 5.60,
 		"product": "Эспандеры"
 	},
@@ -100,7 +100,7 @@
 	{
 		"id": "el13",
 		"name": "Эспандер кистевой 10 кг, голубой",
-		"img": "../img/catalog/Эспандер кистевой 10 кг, голубой.jpg",
+		"img": "img/catalog/Эспандер кистевой 10 кг, голубой.jpg",
 		"price": 5.30,
 		"product": "Эспандеры"
 	},
@@ -108,7 +108,7 @@
 	{
 		"id": "el14",
 		"name": "Эспандер кистевой 60 кг, серый",
-		"img": "../img/catalog/Эспандер кистевой 60 кг, серый.jpg",
+		"img": "img/catalog/Эспандер кистевой 60 кг, серый.jpg",
 		"price": 5.30,
 		"product": "Эспандеры"
 	},
@@ -116,7 +116,7 @@
 	{
 		"id": "el15",
 		"name": "Эспандер кистевой 70 кг, темно-синий",
-		"img": "../img/catalog/Эспандер кистевой 70 кг, темно-синий.jpg",
+		"img": "img/catalog/Эспандер кистевой 70 кг, темно-синий.jpg",
 		"price": 5.30,
 		"product": "Эспандеры"
 	},
@@ -124,7 +124,7 @@
 	{
 		"id": "el16",
 		"name": "Эспандер кистевой 50 кг, коричневый",
-		"img": "../img/catalog/Эспандер кистевой 50 кг, коричневый.jpg",
+		"img": "img/catalog/Эспандер кистевой 50 кг, коричневый.jpg",
 		"price": 5.30,
 		"product": "Эспандеры"
 	},
@@ -132,7 +132,7 @@
 	{
 		"id": "el17",
 		"name": "Гантель Atlet 12 кг",
-		"img": "../img/catalog/Гантель Atlet 12 кг.jpg",
+		"img": "img/catalog/Гантель Atlet 12 кг.jpg",
 		"price": 109.20,
 		"product": "Гантели"
 	},
@@ -140,7 +140,7 @@
 	{
 		"id": "el18",
 		"name": "Гантель Atlet 12 кг N2",
-		"img": "../img/catalog/Гантель Atlet 12 кг N2.jpg",
+		"img": "img/catalog/Гантель Atlet 12 кг N2.jpg",
 		"price": 120,
 		"product": "Гантели"
 	},
@@ -148,7 +148,7 @@
 	{
 		"id": "el19",
 		"name": "Гантель Atlet 14.5 кг",
-		"img": "../img/catalog/Гантель Atlet 14.5 кг.jpg",
+		"img": "img/catalog/Гантель Atlet 14.5 кг.jpg",
 		"price": 129,
 		"product": "Гантели"
 	},
@@ -156,7 +156,7 @@
 	{
 		"id": "el20",
 		"name": "Гантель Atlet 17 кг",
-		"img": "../img/catalog/Гантель Atlet 17 кг.jpg",
+		"img": "img/catalog/Гантель Atlet 17 кг.jpg",
 		"price": 138.60,
 		"product": "Гантели"
 	},
@@ -164,7 +164,7 @@
 	{
 		"id": "el21",
 		"name": "Гантель Atlet 19.5 кг",
-		"img": "../img/catalog/Гантель Atlet 19.5 кг.jpg",
+		"img": "img/catalog/Гантель Atlet 19.5 кг.jpg",
 		"price": 161.60,
 		"product": "Гантели"
 	}
